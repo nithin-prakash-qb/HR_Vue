@@ -11,7 +11,7 @@
     commodo sapien venenatis a. Sed ex tellus, blandit scelerisque maximus vel,
     varius ac orci. Aliquam erat volutpat.
   </p>
-  <button id="ShowMore">Show More</button>
+  <!-- <button id="ShowMore">Show More</button> -->
 </template>
 
 <style>
